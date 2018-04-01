@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\Algazel\PycharmProjects\IndoGramBot"
+set "VIRTUAL_ENV=C:\Users\Algazel\IndoGramBot"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
